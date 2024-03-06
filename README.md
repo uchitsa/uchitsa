@@ -2,7 +2,7 @@
 
 🙄 I’m interested in coding practice
 
-🧑‍🎓 I’m currently learning Go, Java, Python, Blockchain, Cryptocurrency
+🧑‍🎓 I’m currently learning Go, Rust, Java, Python
 
 <!--
 **uchitsa/uchitsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
