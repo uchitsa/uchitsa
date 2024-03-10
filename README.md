@@ -4,6 +4,8 @@
 
 🧑‍🎓 I’m currently learning Go, Rust, Java, Python
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchitsa&show_icons=true&theme=transparent)
+
 <!--
 **uchitsa/uchitsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
