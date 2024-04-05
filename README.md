@@ -2,7 +2,11 @@
 
 🙄 I’m interested in coding practice
 
-🧑‍🎓 I’m currently learning Go, Java, Python, ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+🧑‍🎓 I’m currently learning  Java, Python
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ![uchitsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchitsa&show_icons=true&theme=transparent)
 
