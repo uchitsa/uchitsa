@@ -2,7 +2,7 @@
 
 🙄 I’m interested in coding practice
 
-🧑‍🎓 I’m currently learning Python
+🧑‍🎓 I’m currently learning 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
@@ -10,6 +10,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![uchitsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchitsa&show_icons=true&theme=transparent)
 
