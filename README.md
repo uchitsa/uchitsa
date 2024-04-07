@@ -2,7 +2,7 @@
 
 🙄 I’m interested in coding practice
 
-🧑‍🎓 I’m currently learning 
+🤔  I’m currently learning 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
